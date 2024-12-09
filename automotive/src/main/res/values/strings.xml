@@ -1,0 +1,5 @@
+<resources>
+    <string name="mic_description">Microphone button</string>
+    <string name="tap_mic_and_speak">Tap the mic and speak</string>
+    <string name="PorscheProjectCar">PorscheProjectCar</string>
+</resources>
